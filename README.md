@@ -13,6 +13,15 @@ The project simulates a real-world analytics pipeline from data storage to busin
 - SQLAlchemy (ORM)
 
 # Problem Statement:- 
+Business stakeholders often struggle to derive actionable insights from raw sales data stored in Excel files. 
+While analysts perform ad-hoc analysis locally, there is no centralized analytics system that:
+
+- Processes standardized sales data
+- Stores computed metrics persistently
+- Exposes insights via APIs
+- Presents KPIs through an interactive dashboard
+
+This project aims to bridge the gap between data analysis and production analytics systems.
 
 
 # Project Objective
